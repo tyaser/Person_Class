@@ -1,3 +1,4 @@
+https://github.com/tyaser/Person_Class
 The purpose of the class Person is to create objects with human attributes such as one's name, age, height, eyes, and hair. 
 The class can also be used as a random person generator the the data variables have a default value set to a randomizer. 
 Though, in order for the random name generator two external files have to be downloaded in the same place as the class program. 
